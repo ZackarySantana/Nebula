@@ -1,17 +1,17 @@
 {
-  "name": "{{name_of_lib}}",
+  "name": "nebula",
   "version": "0.0.0",
-  "description": "{{desc_of_lib}}",
+  "description": "Nebula is a component library designed with many themes in mind and customizable props.",
   "license": "MIT",
-  "author": "{{me}}",
+  "author": "Zackary Santana",
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/{{me}}/{{name_of_lib}}.git"
+    "url": "git+https://github.com/zackarysantana/nebula.git"
   },
-  "homepage": "https://github.com/{{me}}/{{name_of_lib}}#readme",
+  "homepage": "https://github.com/zackarysantana/nebula#readme",
   "bugs": {
-    "url": "https://github.com/{{me}}/{{name_of_lib}}/issues"
+    "url": "https://github.com/zackarysantana/nebula/issues"
   },
   "files": [
     "dist"
